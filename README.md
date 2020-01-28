@@ -1,1 +1,1 @@
-# 0x00. Vagrant
+# Starting in Holberton School
